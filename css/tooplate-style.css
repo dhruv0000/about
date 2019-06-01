@@ -212,13 +212,13 @@ text-align: center !important;
 -----------------------------------------*/
 
 #home {
-  background: url('../images/home-bg.png') 50% 0 repeat-y fixed;
+  background: url('../images/home-bg.png') 50% 0 fixed;
   background-size: cover;
   background-position: center center;
   display: -webkit-box;
-  display: -webkit-flex;
+/*  display: -webkit-flex;
    display: -ms-flexbox;
-  display: flex;
+  display: flex;*/
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
