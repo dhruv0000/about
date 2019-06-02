@@ -212,9 +212,9 @@ text-align: center !important;
 -----------------------------------------*/
 
 #home {
-  background: url('../images/home-bg.png') 100% 0 fixed;
+  background: url('../images/home-bg.png') fixed;
+  background-size: auto;
   height: 100vh;
-  /*background-size: cover;*/
   /*background-position: center center;*/
   display: -webkit-box;
 /*  display: -webkit-flex;
