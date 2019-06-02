@@ -212,20 +212,21 @@ text-align: center !important;
 -----------------------------------------*/
 
 #home {
-  background: url('../images/home-bg.png') 50% 0 fixed;
-  background-size: cover;
-  background-position: center center;
+  background: url('../images/home-bg.png') 100% 0 fixed;
+  height: 100vh;
+  /*background-size: cover;*/
+  /*background-position: center center;*/
   display: -webkit-box;
 /*  display: -webkit-flex;
    display: -ms-flexbox;
   display: flex;*/
   -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-   align-items: center;
-  height: 100vh;
-  position: relative;
-  text-align: right;
+/*  -webkit-align-items: center;*/
+ /* -ms-flex-align: center;*/
+  /* align-items: center;*/
+  
+  /*position: relative;*/
+ /* text-align: right;*/
 }
 
 
