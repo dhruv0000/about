@@ -212,7 +212,7 @@ text-align: center !important;
 -----------------------------------------*/
 
 #home {
-  background: url('../images/home-bg.png') fixed;
+  background: url('../images/home-bg.gif') fixed;
   background-attachment: fixed !important;
   background-size: auto;
   background-color: #2b2b2b;
